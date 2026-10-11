@@ -62,4 +62,4 @@ def average_vowels_and_consonants(text):
     return total_sentances, total_vowels // total_sentances, total_consonants // total_sentances
 
 result_paragraph = average_vowels_and_consonants(paragraph)
-print(f"Total Sentances: {result_paragraph[0]} , Average Number of Vowels:{result_paragraph[1]} , Average Number of Consonants: {result_paragraph[2]}")
+print(f"Total Sentances: {result_paragraph[0]} , Average Number of Vowels: {result_paragraph[1]} , Average Number of Consonants: {result_paragraph[2]}")
